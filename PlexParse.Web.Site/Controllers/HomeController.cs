@@ -45,6 +45,7 @@ namespace PlexParse.Web.Site.Controllers
             #endregion
 
             var urls = DataProcessors
+                .AsParallel()
                 .SelectMany(p => p.ProcessMediaFromUrl(url, total, offset).EmptyIfNull())
                 .ToList();
 
