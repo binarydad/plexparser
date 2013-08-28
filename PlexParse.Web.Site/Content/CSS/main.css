@@ -1,0 +1,24 @@
+﻿body { font-size: 12px; font-family: Arial; }
+
+div#shell { margin: 0 auto; width: 800px; }
+
+p#intro { margin-bottom:30px; font-size:14px; }
+div#info { color: #333; }
+
+form input#url { font-size: 20px; color: #666; padding: 10px; margin: 0 0 10px 0; box-sizing: border-box; width: 100%; }
+
+form button { display: block; margin: 0 auto; border: 0; background-color:#009900; font-weight:bold; color:#fff; cursor: pointer; font-size: 16px; padding: 10px; }
+
+div#links { border: 2px solid #009900; padding: 10px; margin-top: 20px; cursor:text; }
+div#links > div a.delete { display: none; color: #990000; font-weight: bold; cursor: pointer; }
+div#links > div:hover { background-color:#eee; }
+div#links > div:hover a.delete { display: inline; }
+
+div#options { margin-bottom: 10px; }
+div#options > input { width: 30px; font-size: 11px; font-weight:bold; }
+
+p#disclaimer { font-size: 10px; color: #666; }
+
+span.error { color: #990000; font-weight: bold; }
+
+span#send-email { display:block; text-align:center; font-size:14px; font-weight:bold; margin:20px; }

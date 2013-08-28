@@ -1,0 +1,20 @@
+﻿@model IEnumerable<PlexParse.Web.Site.Models.VideoModel>
+
+@if (!Model.AnyAndNotNull())
+{ 
+    <span class="error">No videos were found. Make sure your link is valid and is supported.</span>
+}
+else
+{ 
+    foreach (var u in Model)
+    {
+        <div>
+            @u.Title - <a href="@u.Url" target="_blank">@u.Url</a>
+            <a class="delete">Delete</a>
+        </div>
+    }
+    
+    var body = Model.Select(m => m.Url).Join(" ");
+    
+    <span id="send-email">Copy and Paste selection or <a href="mailto:yourplexemail@my.plexapp.com?body=@body">Create & Send Plex Email Links</a></span>
+}

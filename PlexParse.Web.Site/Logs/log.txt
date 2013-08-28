@@ -1,0 +1,28 @@
+6/21/2013 11:17:03 AM => ::1 - http://www.youtube.com/course?list=EC245B82FF8F8ECAC2, 50, 1
+6/21/2013 11:27:58 AM => ::1 - http://www.youtube.com/course?list=EC245B82FF8F8ECAC2, 50, 1
+6/21/2013 11:28:20 AM => ::1 - http://www.youtube.com/course?list=EC245B82FF8F8ECAC2, 50, 1
+6/21/2013 11:28:46 AM => ::1 - http://www.youtube.com/course?list=EC245B82FF8F8ECAC2, 50, 1
+-- Message: test
+6/21/2013 11:30:01 AM => ::1 - Url:http://www.youtube.com/course?list=EC245B82FF8F8ECAC2, Total:50, Offset:1, Message:test
+6/21/2013 11:54:03 AM => ::1 - Url:http://www.youtube.com/user/NASAexplorer/videos, Total:50, Offset:1, Message:50 results
+6/21/2013 11:54:23 AM => ::1 - Url:http://www.youtube.com/user/NASAexplorer/videos, Total:30, Offset:1, Message:30 results
+6/21/2013 12:12:19 PM => ::1 - Url:http://www.youtube.com/playlist?list=PLStC43yAV6zSk6WF76yHmdFbDDYhzMjlF, Total:50, Offset:1, Message:4 returned
+6/21/2013 12:12:34 PM => ::1 - Url:http://www.youtube.com/playlist?list=PLStC43yAV6zSk6WF76yHmdFbDDYhzMjlF, Total:50, Offset:1, Message:4 returned
+6/21/2013 12:49:33 PM => ::1 - Url:http://www.youtube.com/playlist?list=PLStC43yAV6zSk6WF76yHmdFbDDYhzMjlF, Total:50, Offset:1, Message:4 returned
+6/21/2013 12:49:49 PM => ::1 - Url:http://www.youtube.com/course?list=EC6F914D0CF944737A&feature=edu_spotlight&category=University%2FScience, Total:50, Offset:1, Message:5 returned
+6/21/2013 12:51:21 PM => ::1 - Url:http://www.youtube.com/playlist?list=PLOGi5-fAu8bFz0PMhBPEO_6YIVl07EzF_, Total:50, Offset:1, Message:10 returned
+6/21/2013 12:51:59 PM => ::1 - Url:http://www.youtube.com/playlist?list=PLOGi5-fAu8bFz0PMhBPEO_6YIVl07EzF_&featured=asdaasass, Total:50, Offset:1, Message:10 returned
+6/21/2013 12:52:17 PM => ::1 - Url:http://www.youtube.com/course?list=EC6F914D0CF944737A&feature=edu_spotlight&category=University%2FScience, Total:50, Offset:1, Message:5 returned
+6/26/2013 10:16:37 AM => ::1 - Url:http://www.youtube.com/user/ericvdunn/videos, Total:50, Offset:1, Message:50 returned
+6/26/2013 10:30:30 AM => ::1 - Url:http://www.youtube.com/user/ericvdunn/videos, Total:50, Offset:1, Message:70 returned
+6/26/2013 10:44:52 AM => ::1 - Url:http://www.youtube.com/user/ericvdunn/videos, Total:50, Offset:1, Message:50 returned
+6/26/2013 10:45:25 AM => ::1 - Url:https://vimeo.com/scienceatnasa, Total:50, Offset:1, Message:20 returned
+8/26/2013 8:41:15 PM => ::1 - Url:https://wwkw.youtulbe.com/playlist?list=PLStC43yAV6zSk6WF76yHmdFbDDYhzMjlF, Total:50, Offset:1, Message:0 returned
+8/26/2013 8:41:35 PM => ::1 - Url:https://wwkw.youtulbe.com/playlist?list=PLStC43yAV6zSk6WF76yHmdFbDDYhzMjlF, Total:50, Offset:1, Message:0 returned
+8/26/2013 8:44:33 PM => ::1 - Url:asdasas, Total:50, Offset:1, Message:0 returned
+8/26/2013 8:45:04 PM => ::1 - Url:asdas, Total:50, Offset:1, Message:0 returned
+8/26/2013 8:45:42 PM => ::1 - Url:asdas, Total:50, Offset:1, Message:0 returned
+8/26/2013 8:46:27 PM => ::1 - Url:http://www.youtube.com/user/ericvdunn/videos, Total:50, Offset:1, Message:50 returned
+8/26/2013 8:46:34 PM => ::1 - Url:http://www.youtube.com/usser/ericvdunn/videos, Total:50, Offset:1, Message:0 returned
+8/27/2013 8:05:00 PM => ::1 - Url:, Total:50, Offset:1, Message:0 returned
+8/27/2013 8:05:15 PM => ::1 - Url:sdfs, Total:50, Offset:1, Message:0 returned
